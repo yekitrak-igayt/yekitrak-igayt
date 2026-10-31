@@ -21,6 +21,21 @@ I’m a computer science student who enjoys solving problems, building practical
 
 ---
 
+### Pokémon corner
+
+A little Pokémon nostalgia for the profile!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="96" alt="Pikachu" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="96" alt="Bulbasaur" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" width="96" alt="Charmander" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" width="96" alt="Squirtle" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" width="96" alt="Eevee" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" width="96" alt="Mewtwo" />
+</p>
+
+---
+
 ### GitHub activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yekitrak-igayt&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=1800)
