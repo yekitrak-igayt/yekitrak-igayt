@@ -22,6 +22,14 @@ I’m a computer science student who enjoys solving problems, building practical
 
 ---
 
+### GitHub activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yekitrak-igayt&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=1800)
+
+*PR and contribution totals are fetched from GitHub automatically; the stats service may cache results for a short period.*
+
+---
+
 ### Tech
 
 **Languages**  
