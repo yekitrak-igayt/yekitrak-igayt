@@ -16,7 +16,6 @@ I’m a computer science student who enjoys solving problems, building practical
 | Project | What it is |
 | --- | --- |
 | [ArmorPrint](https://github.com/yekitrak-igayt/ArmorPrint) | Secure document-printing workflow with a React frontend, Node.js backend, and multi-stage security checks. |
-| [chess.js](https://github.com/yekitrak-igayt/chess.js) | My fork of a TypeScript chess library for move generation, validation, and game-state detection. |
 | [count-cli](https://github.com/yekitrak-igayt/count-cli) | A small Node.js CLI for counting lines and words in text files. |
 | [SIH2025](https://github.com/yekitrak-igayt/SIH2025) | Project repository from my Smart India Hackathon work. |
 
